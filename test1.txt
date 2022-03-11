@@ -5,6 +5,3 @@ asdfasdfsaf
 git reset --hard
 git reset --hard
 git reset --hard
-
-git reset --hard
-git reset --hard
